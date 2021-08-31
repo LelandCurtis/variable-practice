@@ -10,3 +10,8 @@ drink = "water"
 num_pork_chops = 1
 num_salad_stuff = 5
 eating_time_min = 112.6
+
+#Add boolean variables
+hungry = true
+tired = true
+defeated = false
