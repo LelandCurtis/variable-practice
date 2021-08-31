@@ -20,3 +20,8 @@ defeated = false
 #Add array variables
 cutlery = ["fork", "knife"]
 dishes = ["plate", "bowl", "glass"]
+
+
+#Add hash variables
+stuff_i_like = {"fav" => "ravioli", "best_eva" => "cold coke"}
+stuff_i_hate = ["horrible" => "beets", "too_spicy" => "all spicy things"] 
