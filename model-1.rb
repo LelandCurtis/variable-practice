@@ -15,3 +15,8 @@ eating_time_min = 112.6
 hungry = true
 tired = true
 defeated = false
+
+
+#Add array variables
+cutlery = ["fork", "knife"]
+dishes = ["plate", "bowl", "glass"]
